@@ -1,6 +1,10 @@
 {
   "name": "maths-text-editor",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/manaragr/mathText-editor"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
