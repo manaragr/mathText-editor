@@ -21,4 +21,4 @@ yarn add math-text-editor
 ```
 
 ### Live demo
-https://math-text-editor.vercel.app
+https://maths-text-editor.vercel.app/
